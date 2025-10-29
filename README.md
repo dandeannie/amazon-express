@@ -60,3 +60,10 @@ The server defaults to port 3000. Override by setting `PORT` before starting:
 $env:PORT = 5000
 npm start
 ```
+
+<img width="1913" height="971" alt="image" src="https://github.com/user-attachments/assets/a7e40c87-c57a-4428-8033-639eff38ffa1" />
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/5754d266-5e19-4204-94d4-b31ac6f20eb9" />
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/e842441b-5492-43e2-8ee6-cf2ba745b9f4" />
+
+
+
